@@ -1,7 +1,6 @@
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
-
-# Date :
-# Reg. No. 
+# Exp 8: Reproducing an Image Using Prompts for Image Generation
+# Name : Kavya.V
+# Reg.No: 212222060118
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -48,8 +47,32 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
+## prompt 1:
+### Original image:
+
+<img width="800" height="449" alt="image" src="https://github.com/user-attachments/assets/1cb3a4ed-dd06-483d-9f23-cfbc8a35e550" />
+
+### Prompt:
+
+“A breathtaking mountain valley in early spring, with snow-capped peaks in the background, layers of soft mist drifting between the mountains, and rows of pink cherry blossom trees blooming in the foreground. Gentle morning sunlight breaking through the fog, creating a serene and peaceful atmosphere. Ultra-realistic nature photography, 8K resolution, sharp details, cinematic lighting, wide-angle composition.”
+
+### AI generated image:
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_81luzy81luzy81lu" src="https://github.com/user-attachments/assets/e745f246-a3bc-40b0-bed3-ab96aebef1dd" />
+
+## prompt 2:
+
+### Original image:
+
+<img width="2000" height="1328" alt="image" src="https://github.com/user-attachments/assets/6310c018-5040-4767-a08f-ab5ee7ce6f2c" />
+
+### Prompt:
+“A powerful waterfall flowing over a high green cliff surrounded by dense tropical forest, mist rising from the base forming a bright rainbow across the water, sunlight filtering through the mist, crystal-clear river below with rocks and ripples, ultra-realistic nature photography, 8K resolution, cinematic lighting, detailed textures, peaceful natural atmosphere.”
+
+### AI generated image:
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6262a24b-7547-429f-aecf-c880e7bc94a5" />
+
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
-
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
